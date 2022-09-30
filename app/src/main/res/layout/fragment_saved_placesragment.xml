@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="SAVED PLACES TEST"
+        android:text="SAVED PLACES FRAGMENT"
         android:textSize="40dp"
         android:layout_gravity="center"
         />
